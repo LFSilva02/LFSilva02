@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Luiz Felipe!
 
-<!--
-**LFSilva02/LFSilva02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Ciência da Computação na UniFil  
+🚀 Interessado em IA, Machine Learning e Desenvolvimento Web  
+📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/luiz-felipe-gonsalves-silva) | [E-mail](luizfelipe.silva1529@gmail.com)
 
-Here are some ideas to get you started:
+## ⚙️ Tecnologias que uso
+- Python 
+- HTML 
+- CSS 
+- MYSQL 
+- TAILWIND
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
